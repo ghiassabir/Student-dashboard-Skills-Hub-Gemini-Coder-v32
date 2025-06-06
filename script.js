@@ -57,6 +57,12 @@ let currentStudentData = {
         ]
     },
 
+khanAcademy: {
+        reading: [],
+        writing: [], // Add this line
+        math: []     // Add this line
+    },
+
     skills: {
         reading: [
             { name: "Command of Evidence", score: 55, classAvg: 65, attempted: true },
